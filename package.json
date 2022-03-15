@@ -1,0 +1,10 @@
+{
+  "name": "json-to-csv-web",
+  "version": "1.0.0",
+  "description": "Web page to convert JSON to CSV",
+  "main": "index.html",
+  "scripts": {},
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
